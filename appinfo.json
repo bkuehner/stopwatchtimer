@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "longName": "StopwatchTimer",
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "companyName": "bkuehner",
+    "resources": {
+        "media": [
+            {
+                "file": "data/resource_map.json",
+                "type": "raw",
+                "name": "DUMMY"
+            }
+        ]
+    },
+    "watchapp": {
+        "watchface": false
+    },
+    "uuid": "4fcbae15-ac0c-4e76-8fd3-b3fa1c19c8a6",
+    "shortName": "StopwatchTimer",
+    "versionCode": 1
+}
